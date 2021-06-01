@@ -1,7 +1,7 @@
 
 ## Hello There .
 
- -👋 Hi, I’m @kennedy-muthaura
+- 👋  I’m @kennedy-muthaura
 - 👀 I’m interested in  dart, flutter and golang...
 - 🌱 I’m currently learning  TDD 
 - 💞️ I’m looking to collaborate on open source projects
