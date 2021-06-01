@@ -9,8 +9,8 @@
 - 👀 fun fact - i once played rugby 
 
 
-![Kennedys's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedy-muthaura&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedy-muthaura&theme=radical)](https://github.com/kennedy-muthaura/github-readme-stats)
+![Kennedys's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedy-muthaura&show_icons=true&theme=radical&count_private=true&border_radius=10&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedy-muthaura&count_private=true&include_all_commits=true&theme=radical&border_radius=10&layout=compact&langs_count=10)](https://github.com/kennedy-muthaura/github-readme-stats)
 <!-- 
 uncomment this when you add wakatime account to track your working time
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kennedy-muthaura)](https://github.com/kennedy-muthaura/github-readme-stats)
