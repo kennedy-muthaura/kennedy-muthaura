@@ -3,10 +3,10 @@
 
 - 👋  I’m Kennedy Muthaura
 - 👀 I’m interested in  dart, flutter and golang...
-- 🌱 I’m currently learning  TDD 
+- 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me kennedymuthaura99@gmail.com 
-- 👀 fun fact - i once played rugby 
+
 
 
 ![Kennedys's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedy-muthaura&show_icons=true&theme=radical&count_private=true&border_radius=10&include_all_commits=true)
