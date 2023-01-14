@@ -2,11 +2,10 @@
 ## Hello There .
 
 - 👋  I’m Kennedy Muthaura
-- 👀 I’m interested in  dart, flutter ,react and golang...
-- 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 My Favorite Languages Golang,Typescript and Dart
+- 🌱 I’m currently focused with data structures and algorithms
 - 📫 How to reach me kennedymuthaura99@gmail.com 
-- fun fact -- I enjoy Writing tests 
+- fun fact -- I enjoy Writing tests and i dont take coffee
 
 
 
