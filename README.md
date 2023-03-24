@@ -21,5 +21,9 @@ uncomment this when you add wakatime account to track your working time
 kennedy-muthaura/kennedy-muthaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### :fire: Top Skills :
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,dart,golang,python,react,nodejs,flutter,mongodb,django,postgresql,kubernetes,docker,aws,linux&perline=5)](https://skillicons.dev)
+
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kennedy-muthaura&theme=dark&background=000000)](https://git.io/streak-stats)
